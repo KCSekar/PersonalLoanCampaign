@@ -1,2 +1,2 @@
 # PersonalLoanCampaign
- siness Analytics and Solution  - SL Classification
+ Business Analytics and Solution  - SL Classification
